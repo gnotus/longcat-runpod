@@ -1,0 +1,8 @@
+.git
+.env*
+tests
+GATES.md
+*.mp4
+*.wav
+*.png
+*.json
